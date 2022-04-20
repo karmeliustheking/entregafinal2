@@ -1,0 +1,465 @@
+
+/* OESTE MUSIC KINGS HOME*/
+
+
+/* HEADER */
+
+
+
+.TITLEH {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+background-color: rgba(169, 169, 169, 0.452);
+
+background-size: contain;}
+
+.TITLEH {margin: -6%;}
+
+ 
+.boton {background-color: rgba(169, 169, 169, 0.452);}
+
+
+a {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+color: black;}
+
+.centrar {  margin-left: 77% ; }
+
+.loguito {height: 45px;
+           
+  width: 45px;
+
+
+margin-left: 12%;
+
+margin-top: -4.5%;
+
+}
+
+/*FIN HEADER*/
+
+/* EMPIEZA SECTION*/
+
+
+.represent { background-color: rgba(169, 169, 169, 0.452); } 
+  
+.represent {margin-bottom: 0%;}
+
+.represent {text-align: center;}
+
+.texto {background-color:rgba(169, 169, 169, 0.452) ;}
+
+.texto {margin-top: 0%;}
+
+.texto {text-align: center;}
+
+.bm {background-color:rgba(169, 169, 169, 0.452) ;}
+
+.bm {margin: 0%;}
+
+.br {background-color:rgba(169, 169, 169, 0.452);}
+
+.be {background-color: rgba(169, 169, 169, 0.452);}
+
+.bi {background-color:rgba(169, 169, 169, 0.452) ;}
+
+.gol {margin-left:  35%;}
+
+h2 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+p {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+/*FIN SECTION*/
+
+   .home { background-image: url("../image/fondo\ home.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+   background-attachment: fixed;
+}
+
+/*EMPIEZA FOOTER*/
+
+.brou {background-color:rgba(169, 169, 169, 0.452) ;
+
+  background-size: contain;
+
+  margin: -6%;
+
+  margin-top: 15%;}
+
+/*FIN FOOTER*/
+ 
+                                                                            /*FIN OESTE MUSIC KINGS HOME*/
+
+/* OESTE MUSIC KINGS CONTENIDOS*/
+
+/*HEADER
+*/
+
+
+.BACKGROUNDCONTENT {   background-image: url("../image/CONTENIDOSATR.jpg");       
+
+  background-repeat: no-repeat;
+  background-size: cover;
+background-attachment: fixed;
+}
+
+
+.OMKCONTENIDOS  {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+  background-color: rgba(178, 149, 211, 0.473);
+
+  background-size: contain;
+
+  margin: -6%;}
+
+ .boton1 {background: none;
+
+margin-left: 77%;
+}
+
+/*FIN HEADER*/
+
+
+/*SECTION*/
+
+.graff {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+    margin-left: 41%;
+
+  margin-right: 41%;
+
+  color:rgb(0, 0, 0) ;
+ 
+  font-size: 3em; 
+
+  background-color:rgba(178, 149, 211, 0.473) ;}
+    
+ *{padding: 2%;}
+
+.ATR{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+background-color: rgba(178, 149, 211, 0.473);
+
+margin-right: 95%;
+
+margin-left: -6%;}
+
+
+.botonesfastlist {margin-top: 3%;}
+
+.botonyoutube {background-color:rgba(178, 149, 211, 0.473) ;}
+
+.botonspotify {background-color: rgba(178, 149, 211, 0.473);
+
+  margin-left: 1%;}
+
+
+.tirri{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+     background-color: rgba(178, 149, 211, 0.473);
+
+margin-left: -6%;
+
+margin-top: 4%;}
+
+
+.HIBITCH { margin-top: 5%;
+
+background-color: rgba(178, 149, 211, 0.473);
+
+margin-right: 78%;}
+
+.BCKCONTROL {background-color: rgba(178, 149, 211, 0.473);
+
+  margin-top: -1.2%;
+
+}
+
+/*FIN SECTION*/
+
+ 
+
+/* FOOTER */
+
+.TITLEFOOTERCONTENT {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  background-color:rgba(178, 149, 211, 0.473) ;
+
+margin-left: -6%;
+
+margin-top: 6%;}
+
+/*FIN FOOTER*/
+
+/*FIN OESTE MUSIC KINGS CONTENIDOS*/
+
+
+/*OESTE MUSIC KINGS ARTISTAS*/
+
+.BACKGROUNDARTISTAS {background-image: url("../image/ARTISTASIMG.jpg");
+                   
+                   background-repeat: no-repeat;
+                   background-size: cover;
+                   background-attachment: fixed;
+
+}
+
+/*HEADER*/
+
+.FORRO{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+        margin-left: -6%;
+          
+        background-color: rgba(95, 69, 69, 0.616);
+
+          margin-top: -6%;
+
+          border-right: 1%;}
+
+.boton2 { margin-left: 76%;}
+
+.loguito1 {height: 45px;  width: 45px; margin-left: 13%;  margin-top: -4.5%; }
+
+/*FIN HEADER*/
+
+/*SECTION*/
+
+.H2ARTISTAS {
+   
+  text-align: center;
+
+  font-size: 45px;
+
+  background-color:rgba(95, 69, 69, 0.616) ;
+
+  }
+
+
+.FLAVAARG {background-color:rgba(95, 69, 69, 0.616) ;
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+font-size: 25px;
+
+margin-right: 76%;
+
+}
+
+.photo {width: 350px;
+        
+      height: 350px;
+}
+
+.IGFLAVITA {background-color: rgba(95, 69, 69, 0.616);
+
+margin-left: 6%
+
+}
+
+.YTFLAVITA {background-color:rgba(95, 69, 69, 0.616) ;}
+
+/*FIN SECTION*/
+
+/*FOOTER*/
+
+.H2FOOTERARTISTAS {background-color:rgba(95, 69, 69, 0.616) ;
+
+margin-top: 15%;}
+
+/*FIN FOOTER*/
+
+/*FIN OESTE MUSIC KINGS ARTISTAS*/
+
+
+/*OESTE MUSIC KINGS VIDEOS*/
+
+.backgroundvideo {background-image: url("../image/videosection5.jpg");
+
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  background-attachment: fixed;
+
+}
+
+/*HEADER*/
+
+.videotitle{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: rgba(241, 219, 190, 0.541);
+
+background-size: contain;
+
+margin-left: -6%;
+
+margin-top: -6%;}
+
+.botonHvideo {margin-left: 76%;}
+
+
+.pitorro { height: 45px;  width: 45px;
+
+margin-left: 13% ; margin-top:-4.5%
+;
+}
+
+/*FIN HEADER*/
+
+/*SECTION*/
+
+.subtitle { background-color:rgba(241, 219, 190, 0.541) ;
+
+font-size: 45px;
+
+text-align: center;}
+
+/*FIN SECTION*/
+
+/*FOOTER*/
+
+.backgroundfooter {background-color:rgba(241, 219, 190, 0.541) ; }
+
+
+.iconoface{ width: 45px; height: 45px;}
+
+/*FIN OESTE MUSIC KINGS VIDEOS*/
+
+
+/*EMPIE3ZA CONTACTO*/
+
+.fondocontacto {background-image: url("../image/contactoimg.jpg");
+      
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+/*HEADER*/
+
+.titulocontacto {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  background-color: rgba(241, 219, 190, 0.541);
+
+margin-top: -6%;}
+
+.BOTONhcontacto {margin-left: 75%;}
+
+
+.loguito2 {height: 45px;
+           
+  width: 45px;
+
+
+margin-left: 14%;
+
+margin-top: -5%;
+
+}
+
+/*FIN HEADER*/
+
+
+/*SECTION*/
+
+
+
+.cumpa {background-color:rgba(241, 219, 190, 0.541) ;
+
+  text-align: center;
+  font-size: 45px;}
+
+
+  .colorfont { color: rgb(241, 219, 190); 
+  
+  text-align: center;
+
+  font-size: 30px;}
+
+  .julio {text-align: center;
+  
+  color: rgb(241, 219, 190);
+  
+  font-size: 20px;
+
+  margin-top: -3%;}
+
+
+  .botonesdecontacto { margin-top: 7%;
+  
+    margin-left: 6%;
+
+    text-align: center;
+  
+  }
+
+  .botonF {margin-left: -8%;
+  
+  background-color:rgba(241, 219, 190, 0.541) ;
+
+  font-size: 20px;
+
+  margin-right: 2%;}
+
+
+.botonI {background-color:rgba(241, 219, 190, 0.541) ;
+
+font-size: 20px;
+
+margin-right: 2%;
+
+}
+
+
+.botonT {background-color:rgba(241, 219, 190, 0.541) ;
+
+font-size: 20px;}
+
+
+
+/*FIN SECTION*/
+
+
+/*FOOTER*/
+
+
+.gun {background-color: rgba(241, 219, 190, 0.541);
+
+margin-top: 5%;
+
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
